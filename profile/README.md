@@ -1,6 +1,6 @@
 ## The Wilderness Project for 7 Days to Die
 
-![TWPFORUMLOGO8c](https://user-images.githubusercontent.com/2998314/207018788-2bb4c259-cfd3-4391-a587-1be740324b97.png)
+![TWPFORUMLOGO8c](profile/TWPGithub.png)
 
 <!--
 
